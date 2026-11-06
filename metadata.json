@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect – Smart Campus Management System",
+  "description": "Smart facility and academic room management system for DDUGU IET and Deeksha Bhawan with conflict-free booking and live schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
